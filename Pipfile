@@ -10,6 +10,7 @@ tensorflow = "*"
 numpy = "*"
 pandas = "*"
 sklearn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
